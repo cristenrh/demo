@@ -10,7 +10,7 @@
     { "id": 2, "body": "some comment", "Link": 1 }
   ],
   "profile": {
-    "name": "typicode"
-  },
-  "title": "Please recreate this grouping of cards using the provided data."
+    "title": "Please recreate this grouping of cards using the provided data."
+  }
+
 }
